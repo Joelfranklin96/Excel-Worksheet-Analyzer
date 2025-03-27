@@ -1,6 +1,6 @@
-# Excel Billing Files Analysis
+# Excel Worksheet Analyzer
 
-This project is a Proof of Concept (PoC) demonstrating how to use LangChain and OpenAI to analyze multiple Excel files, each containing billing data. It showcases the ReAct approach, wherein a “Grand Agent” determines which DataFrame-specific agent (tool) to invoke based on the user’s query.
+This project is a Proof of Concept (PoC) demonstrating how to use LangChain and OpenAI to analyze multiple Excel Worksheet files. It showcases the ReAct approach, wherein a “Grand Agent” determines which DataFrame-specific agent (tool) to invoke based on the user’s query.
 
 ---
 
@@ -39,8 +39,8 @@ This project is a Proof of Concept (PoC) demonstrating how to use LangChain and 
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>.git
-cd <your-repo-folder>
+git clone https://github.com/Joelfranklin96/Excel-Worksheet-Analyzer.git
+cd Excel-Worksheet-Analyzer
 ```
 
 ### Install Dependencies
@@ -151,8 +151,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-**Author**: [Your Name]  
-**LinkedIn**: [Your LinkedIn URL]  
-**GitHub**: [Your GitHub URL]
+**Author**: Joel Franklin 
+**LinkedIn**: https://www.linkedin.com/in/joel-franklin-stalin-vijayakumar-89289a223/
 
 For any questions or clarifications, feel free to open an issue or reach out directly.
