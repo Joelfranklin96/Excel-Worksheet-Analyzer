@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-**Author**: Joel Franklin 
+**Author**: Joel Franklin   
 **LinkedIn**: https://www.linkedin.com/in/joel-franklin-stalin-vijayakumar-89289a223/
 
 For any questions or clarifications, feel free to open an issue or reach out directly.
