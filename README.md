@@ -141,14 +141,6 @@ The `instructions` variable in `main.py` can be modified to provide the agent wi
 
 ---
 
-## License
-
-```csharp
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
----
-
 ## Contact
 
 **Author**: Joel Franklin   
